@@ -1,0 +1,105 @@
+The input directory ./4_input exists.
+The mirror directory ./4_mirror was successfully created.
+The common directory ./common already exists.
+NEW_CLIENT: 4
+NEW_CLIENT: 5
+./4_mirror/5    4096 bytes
+./4_mirror/5/YNyGSo    20505 bytes
+./4_mirror/5/S    9379 bytes
+./4_mirror/5/IEhM    4096 bytes
+./4_mirror/5/IEhM/xi    27166 bytes
+./4_mirror/5/IEhM/pfB8    20462 bytes
+./4_mirror/5/IEhM/u    4096 bytes
+./4_mirror/5/IEhM/u/ZrxsYNL    15766 bytes
+./4_mirror/5/IEhM/u/85IyN3l    24864 bytes
+./4_mirror/5/FR40AU    4096 bytes
+./4_mirror/5/FR40AU/lO6lRS    31581 bytes
+./4_mirror/5/FR40AU/OCihS    32648 bytes
+./4_mirror/5/FR40AU/lshJr6s    4096 bytes
+./4_mirror/5/FR40AU/lshJr6s/2Z8MWn    12737 bytes
+./4_mirror/5/FR40AU/lshJr6s/MVQo    6714 bytes
+./4_mirror/5/UA5N6qxR    4096 bytes
+./4_mirror/5/UA5N6qxR/oHpJ    21019 bytes
+./4_mirror/5/UA5N6qxR/2iC    27573 bytes
+./4_mirror/5/UA5N6qxR/k    4096 bytes
+./4_mirror/5/UA5N6qxR/k/byL    7280 bytes
+./4_mirror/5/UA5N6qxR/k/lJ7    11516 bytes
+./4_mirror/5/mGU3Ry    4096 bytes
+./4_mirror/5/mGU3Ry/w    4628 bytes
+./4_mirror/5/mGU3Ry/lWS    30872 bytes
+./4_mirror/5/mGU3Ry/KYcXWWip    4096 bytes
+./4_mirror/5/mGU3Ry/KYcXWWip/p    8882 bytes
+./4_mirror/5/mGU3Ry/KYcXWWip/4FuKsVg    12884 bytes
+./4_mirror/5/WVHOLaey    4096 bytes
+./4_mirror/5/WVHOLaey/BwzI    19935 bytes
+./4_mirror/5/WVHOLaey/WZyVRf    30032 bytes
+./4_mirror/5/WVHOLaey/RrMlBMr    4096 bytes
+./4_mirror/5/WVHOLaey/RrMlBMr/j3    20971 bytes
+./4_mirror/5/WVHOLaey/RrMlBMr/J    29524 bytes
+./4_mirror/5/s    4096 bytes
+./4_mirror/5/s/JS    15355 bytes
+./4_mirror/5/s/cT    1132 bytes
+./4_mirror/5/s/j5w    4096 bytes
+./4_mirror/5/s/j5w/cJ5zpJ    21685 bytes
+./4_mirror/5/s/j5w/cA    11832 bytes
+./4_mirror/5/h1m    4096 bytes
+./4_mirror/5/h1m/RmGrp    33748 bytes
+./4_mirror/5/h1m/By1pGj    13266 bytes
+./4_mirror/5/h1m/Z    4096 bytes
+./4_mirror/5/h1m/Z/A8xGT5m    25449 bytes
+./4_mirror/5/h1m/Z/kyJ    29102 bytes
+./4_mirror/5/1YjF    4096 bytes
+./4_mirror/5/1YjF/2CC75    19608 bytes
+./4_mirror/5/1YjF/0    23851 bytes
+./4_mirror/5/1YjF/XYO    4096 bytes
+./4_mirror/5/1YjF/XYO/UkMX    33770 bytes
+./4_mirror/5/1YjF/XYO/zRrDO    28832 bytes
+./4_mirror/5/NP    4096 bytes
+./4_mirror/5/NP/UW7f    9138 bytes
+./4_mirror/5/NP/YUWS    4102 bytes
+./4_mirror/5/NP/WavA    4096 bytes
+./4_mirror/5/NP/WavA/lg    6839 bytes
+./4_mirror/5/NP/WavA/rk    28140 bytes
+./4_mirror/5/0cd    4096 bytes
+./4_mirror/5/0cd/18AB    18007 bytes
+./4_mirror/5/0cd/NvsoXW    4096 bytes
+./4_mirror/5/0cd/NvsoXW/OVSSIMTT    17442 bytes
+BYTES_READ: 854252 bytes
+FILES_READ: 61
+Transfer from client 5 to client 4 is complete.
+NEW_CLIENT: 5
+BYTES_WRITTEN: 2537327 bytes
+FILES_WRITTEN: 170
+NEW_CLIENT: 5
+NEW_CLIENT: 3
+./4_mirror/3    4096 bytes
+./4_mirror/3/uzSC1J    7120 bytes
+./4_mirror/3/AIuEREu    8392 bytes
+./4_mirror/3/Z    12149 bytes
+./4_mirror/3/rklDR6    33704 bytes
+./4_mirror/3/Hto2S    4096 bytes
+./4_mirror/3/Hto2S/OWnO3nzz    9668 bytes
+./4_mirror/3/Hto2S/FC    24433 bytes
+./4_mirror/3/Hto2S/TEn6px    32042 bytes
+./4_mirror/3/Hto2S/u    13809 bytes
+./4_mirror/3/0Y1X    4096 bytes
+./4_mirror/3/0Y1X/7JCjGwF    20834 bytes
+./4_mirror/3/0Y1X/di6iGxC    13787 bytes
+./4_mirror/3/0Y1X/7sUexM    23466 bytes
+./4_mirror/3/0Y1X/Qvi3Lsz    10598 bytes
+./4_mirror/3/0Y1X/X7Xt    4096 bytes
+./4_mirror/3/0Y1X/X7Xt/74vJh    18836 bytes
+./4_mirror/3/0Y1X/X7Xt/N    8907 bytes
+./4_mirror/3/0Y1X/X7Xt/fR2P    1957 bytes
+BYTES_READ: 256086 bytes
+FILES_READ: 19
+Transfer from client 3 to client 4 is complete.
+NEW_CLIENT: 3
+BYTES_WRITTEN: 2537327 bytes
+FILES_WRITTEN: 170
+Transfer from client 4 to client 3 is complete.
+NEW_CLIENT: 3
+JUST_LEFT: 3
+Client 4 deleted the copy of 3 from its mirror.
+Client 4 exiting.
+JUST_LEFT: 4

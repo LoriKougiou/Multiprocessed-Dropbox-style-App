@@ -1,0 +1,217 @@
+The input directory ./5_input exists.
+The mirror directory ./5_mirror was successfully created.
+The common directory ./common was successfully created.
+NEW_CLIENT: 5
+NEW_CLIENT: 4
+./5_mirror/4    4096 bytes
+./5_mirror/4/ebwMZZIj    11387 bytes
+./5_mirror/4/c    27314 bytes
+./5_mirror/4/RPUmtX    10125 bytes
+./5_mirror/4/ItDCDEOf    27352 bytes
+./5_mirror/4/Z    5618 bytes
+./5_mirror/4/N    26753 bytes
+./5_mirror/4/J    21192 bytes
+./5_mirror/4/6    18739 bytes
+./5_mirror/4/IBRgztLA    4096 bytes
+./5_mirror/4/IBRgztLA/MYX    5760 bytes
+./5_mirror/4/IBRgztLA/S6oKmI    25972 bytes
+./5_mirror/4/IBRgztLA/HGXoCG3    2145 bytes
+./5_mirror/4/IBRgztLA/zZVl7VtN    13600 bytes
+./5_mirror/4/IBRgztLA/PhODu7u    14052 bytes
+./5_mirror/4/IBRgztLA/K    11335 bytes
+./5_mirror/4/IBRgztLA/B    21485 bytes
+./5_mirror/4/IBRgztLA/fjMfhpV    4096 bytes
+./5_mirror/4/IBRgztLA/fjMfhpV/FCn0LA    21694 bytes
+./5_mirror/4/IBRgztLA/fjMfhpV/o4qEP1o    4543 bytes
+./5_mirror/4/IBRgztLA/fjMfhpV/WBqPiMUO    7620 bytes
+./5_mirror/4/IBRgztLA/fjMfhpV/YDD    3228 bytes
+./5_mirror/4/IBRgztLA/fjMfhpV/8j6YCE    19499 bytes
+./5_mirror/4/IBRgztLA/fjMfhpV/l    3202 bytes
+./5_mirror/4/IBRgztLA/fjMfhpV/yZf    22674 bytes
+./5_mirror/4/IBRgztLA/fjMfhpV/tWTav    21229 bytes
+./5_mirror/4/FSJabjc    4096 bytes
+./5_mirror/4/FSJabjc/njH    13161 bytes
+./5_mirror/4/FSJabjc/4t    27666 bytes
+./5_mirror/4/FSJabjc/j43    13321 bytes
+./5_mirror/4/FSJabjc/56    7684 bytes
+./5_mirror/4/FSJabjc/b    1159 bytes
+./5_mirror/4/FSJabjc/oPZTN    31274 bytes
+./5_mirror/4/FSJabjc/5w8q3mOI    30203 bytes
+./5_mirror/4/FSJabjc/se6ajn    4096 bytes
+./5_mirror/4/FSJabjc/se6ajn/GCnm6H    21099 bytes
+./5_mirror/4/FSJabjc/se6ajn/Ol    12591 bytes
+./5_mirror/4/FSJabjc/se6ajn/C2jBKt    14078 bytes
+./5_mirror/4/FSJabjc/se6ajn/FeH    22566 bytes
+./5_mirror/4/FSJabjc/se6ajn/Kr    20182 bytes
+./5_mirror/4/FSJabjc/se6ajn/5IO    7072 bytes
+./5_mirror/4/FSJabjc/se6ajn/jjDPs    22592 bytes
+./5_mirror/4/Im3Ih6He    4096 bytes
+./5_mirror/4/Im3Ih6He/PM3KX    8862 bytes
+./5_mirror/4/Im3Ih6He/wHx    11418 bytes
+./5_mirror/4/Im3Ih6He/VY    25281 bytes
+./5_mirror/4/Im3Ih6He/4I    15845 bytes
+./5_mirror/4/Im3Ih6He/EG    28460 bytes
+./5_mirror/4/Im3Ih6He/50    12781 bytes
+./5_mirror/4/Im3Ih6He/B    17470 bytes
+./5_mirror/4/Im3Ih6He/L0hx4    4096 bytes
+./5_mirror/4/Im3Ih6He/L0hx4/c    16555 bytes
+./5_mirror/4/Im3Ih6He/L0hx4/TVG    6538 bytes
+./5_mirror/4/Im3Ih6He/L0hx4/H    13087 bytes
+./5_mirror/4/Im3Ih6He/L0hx4/RwJGUTn    25059 bytes
+./5_mirror/4/Im3Ih6He/L0hx4/Nk    30611 bytes
+./5_mirror/4/Im3Ih6He/L0hx4/KKGqnLo    6466 bytes
+./5_mirror/4/Im3Ih6He/L0hx4/v    30466 bytes
+./5_mirror/4/5CA    4096 bytes
+./5_mirror/4/5CA/RKBYi    10412 bytes
+./5_mirror/4/5CA/Q3D    29412 bytes
+./5_mirror/4/5CA/4qHbb0YT    10520 bytes
+./5_mirror/4/5CA/biX0    30592 bytes
+BYTES_WRITTEN: 854252 bytes
+FILES_WRITTEN: 61
+Transfer from client 5 to client 4 is complete.
+./5_mirror/4/5CA/IZUiZBzx    26439 bytes
+NEW_CLIENT: 4
+./5_mirror/4/5CA/m0pJKv7    23955 bytes
+./5_mirror/4/5CA/NvcD0    12842 bytes
+./5_mirror/4/5CA/JUkL57r    4096 bytes
+./5_mirror/4/5CA/JUkL57r/DcvbnuDJ    17420 bytes
+./5_mirror/4/5CA/JUkL57r/HTm5bO    24924 bytes
+./5_mirror/4/5CA/JUkL57r/ZuLzNV    30990 bytes
+./5_mirror/4/5CA/JUkL57r/VSckQKDG    29441 bytes
+./5_mirror/4/5CA/JUkL57r/r62    18652 bytes
+./5_mirror/4/5CA/JUkL57r/FjWhIK    30576 bytes
+./5_mirror/4/5CA/JUkL57r/QrgCVP    3660 bytes
+./5_mirror/4/oX2    4096 bytes
+./5_mirror/4/oX2/Nzp    10439 bytes
+./5_mirror/4/oX2/dPd    9925 bytes
+./5_mirror/4/oX2/pu    21171 bytes
+./5_mirror/4/oX2/s    30064 bytes
+./5_mirror/4/oX2/xQkwNe    23686 bytes
+./5_mirror/4/oX2/UdzR1b    26256 bytes
+./5_mirror/4/oX2/Hvyd0    4541 bytes
+./5_mirror/4/oX2/1F    4096 bytes
+./5_mirror/4/oX2/1F/bC    31043 bytes
+./5_mirror/4/oX2/1F/1awGp    24025 bytes
+./5_mirror/4/oX2/1F/BAC    4911 bytes
+./5_mirror/4/oX2/1F/NwbG    33108 bytes
+./5_mirror/4/oX2/1F/p1A    2226 bytes
+./5_mirror/4/oX2/1F/m    22199 bytes
+./5_mirror/4/oX2/1F/TimeDuTi    31650 bytes
+./5_mirror/4/QGgauJM    4096 bytes
+./5_mirror/4/QGgauJM/Q    6955 bytes
+./5_mirror/4/QGgauJM/Zdt0J    3611 bytes
+./5_mirror/4/QGgauJM/zhft    29566 bytes
+./5_mirror/4/QGgauJM/PESDt2t    11306 bytes
+./5_mirror/4/QGgauJM/G3FJT    14223 bytes
+./5_mirror/4/QGgauJM/Gs    7945 bytes
+./5_mirror/4/QGgauJM/8MUf    12697 bytes
+./5_mirror/4/QGgauJM/2gW    4096 bytes
+./5_mirror/4/QGgauJM/2gW/3XZd1    28408 bytes
+./5_mirror/4/QGgauJM/2gW/G2SQ5T    22624 bytes
+./5_mirror/4/QGgauJM/2gW/5wd4eOVM    5164 bytes
+./5_mirror/4/QGgauJM/2gW/Sxr    12702 bytes
+./5_mirror/4/QGgauJM/2gW/6Qh    31848 bytes
+./5_mirror/4/QGgauJM/2gW/Yf    17830 bytes
+./5_mirror/4/QGgauJM/2gW/u6ku    1693 bytes
+./5_mirror/4/TlXaa    4096 bytes
+./5_mirror/4/TlXaa/ouK3NvDp    10444 bytes
+./5_mirror/4/TlXaa/33TpU5    16722 bytes
+./5_mirror/4/TlXaa/5EDxLK    7884 bytes
+./5_mirror/4/TlXaa/AF8wrr    1718 bytes
+./5_mirror/4/TlXaa/0v7B    21904 bytes
+./5_mirror/4/TlXaa/7A6qqK    27885 bytes
+./5_mirror/4/TlXaa/6    24861 bytes
+./5_mirror/4/TlXaa/Au4rECOO    4096 bytes
+./5_mirror/4/TlXaa/Au4rECOO/W0C    1406 bytes
+./5_mirror/4/TlXaa/Au4rECOO/TcThz2    19467 bytes
+./5_mirror/4/TlXaa/Au4rECOO/Eq    2815 bytes
+./5_mirror/4/TlXaa/Au4rECOO/6nCot4t8    4830 bytes
+./5_mirror/4/TlXaa/Au4rECOO/uq6Gdx    2287 bytes
+./5_mirror/4/TlXaa/Au4rECOO/tu7cGEl    21737 bytes
+./5_mirror/4/TlXaa/Au4rECOO/03a    17268 bytes
+./5_mirror/4/ngP46r    4096 bytes
+./5_mirror/4/ngP46r/kIhl    22970 bytes
+./5_mirror/4/ngP46r/UQIW2z    32304 bytes
+./5_mirror/4/ngP46r/ibiN    9434 bytes
+./5_mirror/4/ngP46r/5s2F8HzE    26974 bytes
+./5_mirror/4/ngP46r/g3isYC    14201 bytes
+./5_mirror/4/ngP46r/sOy3Y3BC    14164 bytes
+./5_mirror/4/ngP46r/Ho    30345 bytes
+./5_mirror/4/ngP46r/ozp2aH    4096 bytes
+./5_mirror/4/ngP46r/ozp2aH/0R7msG    7138 bytes
+./5_mirror/4/ngP46r/ozp2aH/h    1032 bytes
+./5_mirror/4/ngP46r/ozp2aH/bTmnk    10259 bytes
+./5_mirror/4/ngP46r/ozp2aH/6g1    5482 bytes
+./5_mirror/4/ngP46r/ozp2aH/rEO6MZB    14819 bytes
+./5_mirror/4/ngP46r/ozp2aH/tDGKL    18691 bytes
+./5_mirror/4/ngP46r/ozp2aH/A    10057 bytes
+./5_mirror/4/y    4096 bytes
+./5_mirror/4/y/V    9576 bytes
+./5_mirror/4/y/aNmA    24815 bytes
+./5_mirror/4/y/yaKfj    6890 bytes
+./5_mirror/4/y/3u6Qkx    24891 bytes
+./5_mirror/4/y/FX00VTp    25229 bytes
+./5_mirror/4/y/uvFwqiKz    10980 bytes
+./5_mirror/4/y/ECjK8yo    26921 bytes
+./5_mirror/4/y/foWzN    4096 bytes
+./5_mirror/4/y/foWzN/6pW    11350 bytes
+./5_mirror/4/y/foWzN/dj    33317 bytes
+./5_mirror/4/y/foWzN/uyK    32671 bytes
+./5_mirror/4/y/foWzN/g    12482 bytes
+./5_mirror/4/y/foWzN/jHqOIxe    3192 bytes
+./5_mirror/4/y/foWzN/mKT    5918 bytes
+./5_mirror/4/y/foWzN/a    27745 bytes
+./5_mirror/4/WXgv5    4096 bytes
+./5_mirror/4/WXgv5/xq    19168 bytes
+./5_mirror/4/WXgv5/O    1709 bytes
+./5_mirror/4/WXgv5/DCXjJRu3    20428 bytes
+./5_mirror/4/WXgv5/ekAqU    12282 bytes
+./5_mirror/4/WXgv5/Ei    2937 bytes
+./5_mirror/4/WXgv5/DgaUgHGs    12802 bytes
+./5_mirror/4/WXgv5/Jig3DZ    3696 bytes
+./5_mirror/4/WXgv5/VorvE6    4096 bytes
+./5_mirror/4/WXgv5/VorvE6/I8V    24356 bytes
+./5_mirror/4/WXgv5/VorvE6/3    26519 bytes
+./5_mirror/4/WXgv5/VorvE6/qR    3776 bytes
+./5_mirror/4/WXgv5/VorvE6/3Ry7tS    17425 bytes
+./5_mirror/4/WXgv5/VorvE6/Y    1117 bytes
+./5_mirror/4/WXgv5/VorvE6/owOXBV    5569 bytes
+./5_mirror/4/WXgv5/VorvE6/Z    22736 bytes
+BYTES_READ: 2537327 bytes
+FILES_READ: 170
+Transfer from client 4 to client 5 is complete.
+NEW_CLIENT: 4
+NEW_CLIENT: 3
+./5_mirror/3    4096 bytes
+./5_mirror/3/uzSC1J    7120 bytes
+./5_mirror/3/AIuEREu    8392 bytes
+./5_mirror/3/Z    12149 bytes
+./5_mirror/3/rklDR6    33704 bytes
+./5_mirror/3/Hto2S    4096 bytes
+./5_mirror/3/Hto2S/OWnO3nzz    9668 bytes
+./5_mirror/3/Hto2S/FC    24433 bytes
+./5_mirror/3/Hto2S/TEn6px    32042 bytes
+./5_mirror/3/Hto2S/u    13809 bytes
+./5_mirror/3/0Y1X    4096 bytes
+./5_mirror/3/0Y1X/7JCjGwF    20834 bytes
+./5_mirror/3/0Y1X/di6iGxC    13787 bytes
+./5_mirror/3/0Y1X/7sUexM    23466 bytes
+./5_mirror/3/0Y1X/Qvi3Lsz    10598 bytes
+./5_mirror/3/0Y1X/X7Xt    4096 bytes
+./5_mirror/3/0Y1X/X7Xt/74vJh    18836 bytes
+./5_mirror/3/0Y1X/X7Xt/N    8907 bytes
+./5_mirror/3/0Y1X/X7Xt/fR2P    1957 bytes
+BYTES_READ: 256086 bytes
+FILES_READ: 19
+Transfer from client 3 to client 5 is complete.
+NEW_CLIENT: 3
+BYTES_WRITTEN: 854252 bytes
+FILES_WRITTEN: 61
+Transfer from client 5 to client 3 is complete.
+NEW_CLIENT: 3
+JUST_LEFT: 3
+Client 5 deleted the copy of 3 from its mirror.
+JUST_LEFT: 4
+Client 5 deleted the copy of 4 from its mirror.
+Client 5 exiting.
+JUST_LEFT: 5
